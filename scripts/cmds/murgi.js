@@ -4,7 +4,7 @@ module.exports = {
     aliases: ["Murgi"],
 		version: "1.0",
 		author: "Siam",
-		role: 0,
+		role: 2,
 		category: "funny",
     shortDescription: "murgi",
 		longDescription: "",

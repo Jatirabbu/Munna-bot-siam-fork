@@ -2,7 +2,7 @@ module.exports = {
     config: {
         name: "@Siamislam󱢏",
         version: "1.0",
-        author: "kiv",
+        author: "kiiv",
         countDown: 5,
         role: 0,
         shortDescription: "No Prefix",
